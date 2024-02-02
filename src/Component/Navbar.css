@@ -1,0 +1,9 @@
+
+a.button.active{
+    border: 1px solid var(--force-color);
+}
+
+.logo{
+    width: 2%;
+}
+
